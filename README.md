@@ -49,25 +49,6 @@ A fully responsive Personal Dashboard Web App created using Next.js and Tailwind
 
 ---
 
-## 📁 Project Structure
-
-/pages
-└── index.js # Main entry point
-/components
-├── Navbar.js # Top navigation bar
-├── Profile.js # Profile section
-├── Experience.js # Academics or Experience
-├── Skills.js # Skills section
-└── Extras.js # Optional section (hobbies/goals)
-styles/
-└── globals.css # Tailwind CSS configuration
-/data
-└── userData.js # Static personal data
-
-yaml
-Copy
-Edit
-
 # Clone the repository
 git clone https://github.com/Sudiptacoding/Personal-Dashboard.git
 cd Personal-Dashboard
